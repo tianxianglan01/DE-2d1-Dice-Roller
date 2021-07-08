@@ -20,3 +20,7 @@ def roll_dice():
             print("That was not a correction selection. Please Try again\n")
 
 roll_dice()
+
+
+if __name__ == 'main':
+    roll_dice()
